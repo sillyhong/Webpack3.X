@@ -1,0 +1,18 @@
+body {
+    background-color: red;
+    color: white;
+}
+
+#tupian {
+    background-image: url("../images/quiz.jpg");
+    background-repeat: no-repeat;
+    width: 600px;
+    height: 600px;
+    transition: all 0.3s ease;
+    transform: rotate(45deg);
+}
+
+#aaa {
+    background-color: red;
+    color: white;
+}

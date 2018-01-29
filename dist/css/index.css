@@ -1,0 +1,29 @@
+/*! 版权归weihong所有 */
+body {
+  background-color: red;
+  color: white;
+}
+
+#tupian {
+  background-image: url(http://localhost:8080/images/1d7f46d32740b21fb7f5519c7df05f06.jpg);
+  background-repeat: no-repeat;
+  width: 600px;
+  height: 600px;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+#box {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+}
+
+#nav {
+  width: 100%;
+  height: 200px;
+  background-color: orange;
+}
+/*# sourceMappingURL=index.css.map*/
